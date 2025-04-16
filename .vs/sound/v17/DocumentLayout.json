@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\sound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|C:\\Users\\andre\\Desktop\\sound\\sound\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|solutionrelative:sound\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|C:\\Users\\andre\\Desktop\\sound\\sound\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|solutionrelative:sound\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|C:\\Users\\andre\\Desktop\\sound\\sound\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|solutionrelative:sound\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|C:\\Users\\andre\\Desktop\\sound\\sound\\authwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|solutionrelative:sound\\authwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|C:\\Users\\andre\\Desktop\\sound\\sound\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|solutionrelative:sound\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|C:\\Users\\andre\\Desktop\\sound\\sound\\datagrid.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|solutionrelative:sound\\datagrid.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|C:\\Users\\andre\\Desktop\\sound\\sound\\classes\\classauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|solutionrelative:sound\\classes\\classauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|c:\\users\\andre\\desktop\\sound\\sound\\addoreditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|solutionrelative:sound\\addoreditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|C:\\Users\\andre\\Desktop\\sound\\sound\\addoreditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|solutionrelative:sound\\addoreditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\Desktop\\sound\\sound\\obj\\Debug\\AuthWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sound\\obj\\Debug\\AuthWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|C:\\Users\\andre\\Desktop\\sound\\sound\\datagrid.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|solutionrelative:sound\\datagrid.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|C:\\Users\\andre\\Desktop\\sound\\sound\\classes\\classrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|solutionrelative:sound\\classes\\classrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|C:\\Users\\andre\\Desktop\\sound\\sound\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|solutionrelative:sound\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|C:\\Users\\andre\\Desktop\\sound\\sound\\classes\\classproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|solutionrelative:sound\\classes\\classproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|C:\\Users\\andre\\Desktop\\sound\\sound\\interfaces\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|solutionrelative:sound\\interfaces\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|C:\\Users\\andre\\Desktop\\sound\\sound\\interfaces\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|solutionrelative:sound\\interfaces\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|C:\\Users\\andre\\Desktop\\sound\\sound\\models\\modeldb\\modeldb12.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{FB1A1131-E738-4584-BA0C-B38DD2EE4BD3}|sound\\sound.csproj|solutionrelative:sound\\models\\modeldb\\modeldb12.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 271,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\sound\\sound\\AuthWindow.xaml",
+              "RelativeDocumentMoniker": "sound\\AuthWindow.xaml",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\sound\\sound\\AuthWindow.xaml",
+              "RelativeToolTip": "sound\\AuthWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T08:52:31.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\sound\\sound\\AuthWindow.xaml.cs",
+              "RelativeDocumentMoniker": "sound\\AuthWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\sound\\sound\\AuthWindow.xaml.cs",
+              "RelativeToolTip": "sound\\AuthWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:52:49.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\sound\\sound\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "sound\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\sound\\sound\\MainWindow.xaml",
+              "RelativeToolTip": "sound\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T08:39:05.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\sound\\sound\\App.config",
+              "RelativeDocumentMoniker": "sound\\App.config",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\sound\\sound\\App.config",
+              "RelativeToolTip": "sound\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-16T08:59:04.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\sound\\sound\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "sound\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\sound\\sound\\MainWindow.xaml.cs",
+              "RelativeToolTip": "sound\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:39:04.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataGrid.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\sound\\sound\\DataGrid.xaml.cs",
+              "RelativeDocumentMoniker": "sound\\DataGrid.xaml.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\sound\\sound\\DataGrid.xaml.cs",
+              "RelativeToolTip": "sound\\DataGrid.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:51:49.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddOrEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\sound\\sound\\AddOrEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "sound\\AddOrEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\sound\\sound\\AddOrEditWindow.xaml.cs",
+              "RelativeToolTip": "sound\\AddOrEditWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:04:56.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\sound\\sound\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "sound\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\sound\\sound\\Models\\UserModel.cs",
+              "RelativeToolTip": "sound\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:56:32.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModelDB12.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\sound\\sound\\Models\\ModelDB\\ModelDB12.edmx",
+              "RelativeDocumentMoniker": "sound\\Models\\ModelDB\\ModelDB12.edmx",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\sound\\sound\\Models\\ModelDB\\ModelDB12.edmx [Diagram1]",
+              "RelativeToolTip": "sound\\Models\\ModelDB\\ModelDB12.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-04-16T08:47:00.394Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClassProduct.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\sound\\sound\\Classes\\ClassProduct.cs",
+              "RelativeDocumentMoniker": "sound\\Classes\\ClassProduct.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\sound\\sound\\Classes\\ClassProduct.cs",
+              "RelativeToolTip": "sound\\Classes\\ClassProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:53:54.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\sound\\sound\\Interfaces\\product.cs",
+              "RelativeDocumentMoniker": "sound\\Interfaces\\product.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\sound\\sound\\Interfaces\\product.cs",
+              "RelativeToolTip": "sound\\Interfaces\\product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:49:47.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "auth.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\sound\\sound\\Interfaces\\auth.cs",
+              "RelativeDocumentMoniker": "sound\\Interfaces\\auth.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\sound\\sound\\Interfaces\\auth.cs",
+              "RelativeToolTip": "sound\\Interfaces\\auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:49:15.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassAuth.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\sound\\sound\\Classes\\ClassAuth.cs",
+              "RelativeDocumentMoniker": "sound\\Classes\\ClassAuth.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\sound\\sound\\Classes\\ClassAuth.cs",
+              "RelativeToolTip": "sound\\Classes\\ClassAuth.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:50:23.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddOrEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\sound\\sound\\AddOrEditWindow.xaml",
+              "RelativeDocumentMoniker": "sound\\AddOrEditWindow.xaml",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\sound\\sound\\AddOrEditWindow.xaml",
+              "RelativeToolTip": "sound\\AddOrEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T09:04:27.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthWindow.g.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\sound\\sound\\obj\\Debug\\AuthWindow.g.cs",
+              "RelativeDocumentMoniker": "sound\\obj\\Debug\\AuthWindow.g.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\sound\\sound\\obj\\Debug\\AuthWindow.g.cs",
+              "RelativeToolTip": "sound\\obj\\Debug\\AuthWindow.g.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwDoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:19:22.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataGrid.xaml",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\sound\\sound\\DataGrid.xaml",
+              "RelativeDocumentMoniker": "sound\\DataGrid.xaml",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\sound\\sound\\DataGrid.xaml",
+              "RelativeToolTip": "sound\\DataGrid.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T08:51:16.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClassRole.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\sound\\sound\\Classes\\ClassRole.cs",
+              "RelativeDocumentMoniker": "sound\\Classes\\ClassRole.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\sound\\sound\\Classes\\ClassRole.cs",
+              "RelativeToolTip": "sound\\Classes\\ClassRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:55:31.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
